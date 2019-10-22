@@ -10,6 +10,9 @@ There is support for private groups, but this requires that you have a Yahoo gro
 
 Works with both Python 2 and Python 3.
 
+You will need the `requests` module
+which is a popular third-party Python library for handing HTTP(S) requests.
+
 ## Usage
 **`python archive_group.py <groupName> [options] [nologs]`**
 where *`<groupName>`* is the name of the group you wish to archive (e.g: hypercard)
