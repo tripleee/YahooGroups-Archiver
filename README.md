@@ -18,6 +18,11 @@ Works with both Python 2 and Python 3.
 
 You will need the `requests` module
 which is a popular third-party Python library for handing HTTP(S) requests.
+Try
+```
+pip install -r requirements.txt
+```
+perhaps with `sudo` or in a virtual environment.
 
 ## Usage
 **`python archive_group.py <groupName> [options] [nologs]`**
